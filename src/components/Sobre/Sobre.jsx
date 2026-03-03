@@ -1,4 +1,4 @@
-import "../Sobre/Sobre.css";
+import "./Sobre.css";
 
 export const Sobre = ({categoria}) =>
 {
